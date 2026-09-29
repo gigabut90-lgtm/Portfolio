@@ -2,102 +2,67 @@
 
 ## About the Project
 
-This is my personal portfolio website, created to showcase my journey, interests, goals, and projects.
+This is my personal portfolio site. It is intended to provide information about me and some of my projects.
 
-The portfolio is inspired by my passion for **motorsport, cars, sports, and technology**. It presents my journey from karting to my ambitions in motorsport and software engineering.
+The website was built as part of my web development learning process.
 
 ## Features
 
 * Personal introduction
-* My motorsport journey
-* About Me section
-* Vision Board
-* Motorsport gallery
-* Contact information
-* Navigation between sections
-* Hover effects and CSS animations
-* Responsive design
+* Skills section
+* Projects section
+* Project images
+* GitHub profile link
+* Responsive project grid
+* Custom CSS styling
+
+## Projects
+
+### Tugo Sports
+
+A project that explores the use of sports in creating opportunities for youth and  underprivileged schools.
+
+### Fire Island Travel Blog
+
+A travel blog website built using HTML and CSS. The website showcases information and pictures of Fire Island.
 
 ## Technologies Used
 
-* **HTML5** — Used to create the structure of the website.
-* **CSS3** — Used for styling, layout, animations, and responsive design.
+* HTML5
+* CSS3
 
-> This project does not use JavaScript.
+## Design
 
-## Website Sections
+Website design includes red, yellow, black, and white colors.
 
-### Home
+The projects section is designed using CSS Grid.
 
-Introduces visitors to my portfolio and gives an overview of what they can find on the website.
+## How to run the Project
 
-### My Journey
+1. Clone the repository:
 
-Describes my motorsport journey, starting from karting and progressing towards my Formula 1 ambitions.
+```bash
+git clone YOUR-REPOSITORY-URL
+```
 
-### About Me
+2. Open the project folder.
 
-Provides information about my interests, background, sports, technology, and involvement with Tugo Sports.
-
-### Vision Board
-
-Describes my future goals in motorsport, software engineering, and youth development through sport.
-
-### Gallery
-
-Displays images related to my motorsport journey.
-
-### Contact
-
-Provides ways for visitors to get in touch with me.
+3. Open `index.html` file in your browser.
 
 ## Project Structure
 
 ```text
-Giggs-Portfolio/
+portfolio/
 │
 ├── index.html
 ├── style.css
-├── README.md
 │
-└── images/
-    └── Imageofkarts.png
+├── Tugo-web.png
+├── Tugo-sports-event.png
+└── Fire-Island.png
 ```
-
-## Design
-
-The website uses a motorsport-inspired design with:
-
-* Racing red
-* Black and dark charcoal
-* White
-* Small gold accents
-
-The design is intended to create a modern racing aesthetic while maintaining my own personal identity.
-
-## Goals
-
-The main goals of this project are to:
-
-1. Showcase my personal journey.
-2. Demonstrate my HTML and CSS skills.
-3. Share my ambitions in motorsport and technology.
-4. Create a professional online portfolio.
-5. Continue improving my web development skills.
-
- ## Future Improvements
-
-Future versions of the portfolio may include:
-
-* More projects
-* More gallery images
-* Improved responsive design
-* Additional CSS animations
-* A more detailed motorsport timeline
-* More information about my software development projects
 
 ## Author
 
 **Giggs Muturi**
 
-Passionate about motorsport, sports, technology, and software development.
